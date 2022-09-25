@@ -1,3 +1,7 @@
+body {
+  background-color:lightblue; 
+}
+
 .links ,h1, p{
   text-align: center;
 }
